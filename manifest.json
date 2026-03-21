@@ -25,6 +25,28 @@
         "blob/e194976cb9762f343d9f7cc77bb52046440d9150.nq.gz",
         "blob/541171f2e420acc231be41a8bed9edca41327eb6.nq.gz",
         "blob/f3eb68308cc24634c1a572c81c45b999c8734b04.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz",
+      "repolex": "aggregate/repolex/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz",
+      "dep": "dep/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pprintpp",
+          "packageVersion": "0.4.0",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "nose-parameterized",
+          "packageVersion": "0.6.0",
+          "githubOrg": "wolever",
+          "githubRepo": "parameterized",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],
