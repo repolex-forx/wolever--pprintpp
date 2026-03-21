@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "wolever",
+  "repo": "pprintpp",
+  "versions": [
+    {
+      "commit": "362d5be3ac8ea83d02762add582c9b2ba81ffbfa",
+      "parsed_at": "2026-03-21T06:06:10.722663+00:00",
+      "tag": "0.3.0",
+      "filetree": "filetree/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz",
+      "blobs": [
+        "blob/081ac5d2c036a9fb7b764376b11aa47c4b6e1ee9.nq.gz",
+        "blob/9561fb1061f6de114633c70871232a6896dcbe8a.nq.gz",
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/8bb77d455a66ff9636950d1ef9387a9ab77ddfcc.nq.gz",
+        "blob/1856784fc2ac91cb3b590e54dcb24ac1ba902dba.nq.gz",
+        "blob/d1828e9c75663b723dc5c5d4259648090972f5ad.nq.gz",
+        "blob/3c59a00e005024bc423d424791f9a7fd1ac152eb.nq.gz",
+        "blob/966c9de131bb3ded3cc2124f49dd2f4dcccccf43.nq.gz",
+        "blob/df25941b3c1f79c091deb8b0968f0de4592fd05b.nq.gz",
+        "blob/5dc130ecebbfc692eb80e304b2f7063740bf4d81.nq.gz",
+        "blob/a7631db84237af7a200440146cb3cfe30978db27.nq.gz",
+        "blob/64b85d7d5b21b2a1072af79f2ad5b1fd1b339592.nq.gz",
+        "blob/ed8195f5a6b8ef77cb34a1bfca98d1c3a56b2b6d.nq.gz",
+        "blob/e194976cb9762f343d9f7cc77bb52046440d9150.nq.gz",
+        "blob/541171f2e420acc231be41a8bed9edca41327eb6.nq.gz",
+        "blob/f3eb68308cc24634c1a572c81c45b999c8734b04.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
