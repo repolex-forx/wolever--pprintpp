@@ -36,6 +36,13 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   └── 362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz
+│   ├── lsp
+│   │   └── 362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz
+│   └── repolex
+│       └── 362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz
 ├── blob
 │   ├── 081ac5d2c036a9fb7b764376b11aa47c4b6e1ee9.nq.gz
 │   ├── 1856784fc2ac91cb3b590e54dcb24ac1ba902dba.nq.gz
@@ -57,6 +64,8 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── 362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz
 ├── filetree
 │   └── 362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz
 ├── issue
@@ -66,7 +75,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-8 directories, 22 files
+13 directories, 26 files
 ```
 
 | Directory | What it contains |
@@ -86,4 +95,4 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 [wolever/pprintpp](https://github.com/wolever/pprintpp)
 
 ---
-*Parsed on 2026-03-21 by [repolex](https://repolex.ai)*
+*Parsed on 2026-03-22 by [repolex](https://repolex.ai)*
