@@ -34,17 +34,17 @@
       "dep": "dep/362d5be3ac8ea83d02762add582c9b2ba81ffbfa.nq.gz",
       "dependencies": [
         {
-          "packageName": "pprintpp",
-          "packageVersion": "0.4.0",
-          "githubOrg": "wolever",
-          "githubRepo": "pprintpp",
-          "githubCommit": "HEAD"
-        },
-        {
           "packageName": "nose-parameterized",
           "packageVersion": "0.6.0",
           "githubOrg": "wolever",
           "githubRepo": "parameterized",
+          "githubCommit": "HEAD"
+        },
+        {
+          "packageName": "pprintpp",
+          "packageVersion": "0.4.0",
+          "githubOrg": "wolever",
+          "githubRepo": "pprintpp",
           "githubCommit": "HEAD"
         }
       ]
